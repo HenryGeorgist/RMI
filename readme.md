@@ -1,6 +1,10 @@
-In order to run the example RmiTesting project, the first step is to locate the jdk used to compile the project (jdk18x64), and copy the “rmiregistry.exe” and “jli.dll” files out of the bin directory. Place those in the classes directory of RmiTesting (…\RmiTesting\build\classes)
+In order to setup the example RmiTesting project, the first step is build the project in your
+IDE.
+Next, locate the jdk used to compile the project (jdk18x64), and copy the 
+“rmiregistry.exe” and “jli.dll” files out of the bin directory. Place those in 
+the classes directory of RmiTesting (…\RmiTesting\build\classes)
 
-# Steps
+# Steps to Run the Program
 
 To run the program successfully the following steps must be followed:
 1.	Launch rmiregistry.exe (double click on it in the classes directory)
